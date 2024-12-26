@@ -1,0 +1,4 @@
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: InputError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: InputError: Number 99 is out of range. Please select valid addresses.

@@ -1,0 +1,59 @@
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: NotNumberError: Input contains non-integer values - A
+Caught exception: WrongNumberError: Number 99 is out of range.
+Caught exception: NotNumberError: Input contains non-integer values - abc
+Caught exception: NotNumberError: Input contains non-integer values - A
+Caught exception: WrongNumberError: Number 99 is out of range.
+Caught exception: NotNumberError: Input contains non-integer values - abc
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 99 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - abc. Please enter valid integer numbers.
